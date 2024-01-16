@@ -477,6 +477,7 @@ a{
     width: calc(100% - 10rem);
     margin-left: 5rem;
     margin-right: 5rem;
+    height: 100vh;
 }
 
 .qualification__title{
